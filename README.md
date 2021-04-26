@@ -11,8 +11,7 @@
   - Senior Staff are the second largest population among the retirees at 28,254.
   - Of the retiring population, only 1,549 are eligible for the mentorship program.
   - Only ~1.7% of the retiring population is eligible for the mentorship program which means they PH may need to seek additional efforts to ensure effective training of new employees.
-  ![Screen Shot 2021-04-26 at 4 15 14 AM](https://user-images.githubusercontent.com/78178900/116074571-ccdeb100-a646-11eb-909d-684b570f6b30.jpg)
-  
+  -   
   <img width="482" alt="Screen Shot 2021-04-26 at 4 46 49 AM" src="https://user-images.githubusercontent.com/78178900/116077721-a458b600-a64a-11eb-8c33-b23fb5128a2c.png">
 
   
